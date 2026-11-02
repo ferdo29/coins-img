@@ -1,0 +1,16 @@
+{
+  "name": "coins-img",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^6"
+  },
+  "dependencies": {
+    "@coinmarketcap/sdk": "^5.0.1",
+    "axios": "^1.21.0"
+  }
+}
